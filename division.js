@@ -13,12 +13,12 @@ function solve(num){
         console.log('Not divisible')
     }
 
-<<<<<<< HEAD
+
     console.log('Testing')
     console.log('just a demo')
-console.log('Hello')
-=======
+    console.log('Hello')
+
     console.log('Hi')
->>>>>>> 278a0541647ff1790f7769731b6bc493c6beccfd
+
 }
 solve(30)
