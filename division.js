@@ -12,5 +12,7 @@ function solve(num){
     }else {
         console.log('Not divisible')
     }
+
+    console.log('Testing')
 }
 solve(30)
