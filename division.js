@@ -14,5 +14,6 @@ function solve(num){
     }
 
     console.log('Testing')
+    console.log('just a demo')
 }
 solve(30)
