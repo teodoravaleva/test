@@ -13,7 +13,6 @@ function solve(num){
         console.log('Not divisible')
     }
 
-    console.log('Testing')
-    console.log('just a demo')
+    console.log('Hi')
 }
 solve(30)
