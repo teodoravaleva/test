@@ -15,5 +15,6 @@ function solve(num){
 
     console.log('Testing')
     console.log('just a demo')
+console.log('Hello')
 }
 solve(30)
